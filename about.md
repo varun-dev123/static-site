@@ -2,4 +2,4 @@
 
 <p>Thi is my about page p tag</p>
 
-[About Us](index.md)
+[Back to my index page](index.md)
